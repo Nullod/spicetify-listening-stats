@@ -4,11 +4,6 @@
   "preview": "preview/ava.gif",
   "main": "listening-stats.js",
   "readme": "README.md",
-  "authors": [
-    {
-      "name": "Nullod",
-      "url": "https://github.com/Nullod"
-    }
-  ],
+  "authors": [{ "name": "Nullod", "url": "https://github.com/Nullod" }],
   "tags": ["stats", "listening history", "charts"]
 }
