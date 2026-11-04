@@ -1,0 +1,1 @@
+# spicetify-listening-stats
