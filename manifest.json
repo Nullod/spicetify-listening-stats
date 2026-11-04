@@ -1,0 +1,14 @@
+{
+  "name": "Listening Stats",
+  "description": "Daily, monthly and yearly listening stats with top tracks, artists and activity charts.",
+  "preview": "preview/ava.gif",
+  "main": "listening-stats.js",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "Nullod",
+      "url": "https://github.com/Nullod"
+    }
+  ],
+  "tags": ["stats", "listening history", "charts"]
+}
